@@ -10,7 +10,7 @@ function Footer() {
                     company logo
                 </div>
                 <div className="flex flex-wrap sm:gap-10 gap-8 items-center justify-center mt-8">
-                    <a href='/about' ><p className="hover:text-gray-500 text-base cursor-pointer leading-4 text-gray-800">About</p></a>
+                    <a href='/about' ><p className="hover:text-gray-500 text-base cursor-pointer leading-4 text-gray-800">About Us</p></a>
                     <a href='/contact'><p className="hover:text-gray-500 text-base cursor-pointer leading-4 text-gray-800">Contact us</p></a>
                 </div>
                 <div className="flex items-center gap-x-8 mt-6">
