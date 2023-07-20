@@ -25,13 +25,10 @@ function Navbar() {
                     <a href="/" className="text-gray-900 rounded-none hover:bg-amber-300  p-5" aria-current="page">Home</a>
                 </li>
                 <li>
-                    <a href="/about" className="text-gray-900 rounded-none hover:bg-amber-300 p-5">Company</a>
+                    <a href="/about" className="text-gray-900 rounded-none hover:bg-amber-300 p-5">About Us</a>
                 </li>
                 <li>
-                    <a href="/team" className="text-gray-900 rounded-none hover:bg-amber-300 p-5">Team</a>
-                </li>
-                <li>
-                    <a href="/contact" className="text-gray-900 rounded-none hover:bg-amber-300 p-5">Contact</a>
+                    <a href="/contact" className="text-gray-900 rounded-none hover:bg-amber-300 p-5">Contact Us</a>
                 </li>
             </ul>
         </div>
