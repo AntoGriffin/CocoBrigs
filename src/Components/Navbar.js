@@ -5,11 +5,10 @@ function Navbar() {
    return (
    <header>
     
-<nav className="bg-gradient-to-r from-red-500 to-orange-300 border-gray-200 z-100 fixed top-0 w-full">
+<nav className="bg-gradient-to-r from-orange-300 to-red-500 border-gray-200 z-100 fixed top-0 w-full">
     <div className="flex flex-wrap justify-between items-center mx-auto max-w-screen-xl p-4">
         <a href="/" className="flex items-center justify-center">
-            <img src="https://img.icons8.com/arcade/64/charcoal.png" class=" h-8 mr-3" alt="cocobrigs Logo" />
-            <span className="self-center jus text-2xl font-semibold whitespace-nowrap dark:text-white">CocoBrigs</span>
+            <img src="https://iili.io/HQtI1n4.md.png" class=" h-8 mr-3" alt="cocobrigs Logo" />
         </a>
         <div className="flex items-center">
             <img src="https://img.icons8.com/ios/20/000000/phone--v1.png" className="p-1" alt='icon'/>

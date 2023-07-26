@@ -6,12 +6,14 @@ function Footer() {
 
 <div className="mx-auto container xl:px-20 lg:px-12 sm:px-6 px-4  py-12">
             <div className="flex flex-col items-center justify-center">
-                <div>
-                    company logo
+            <div className="flex flex-wrap justify-between items-center mx-auto max-w-screen-xl p-4">
+                 <a href="/" className="flex items-center justify-center">
+                    <img src="https://iili.io/HQtI1n4.md.png" class=" h-8 mr-3" alt="cocobrigs Logo" />
+                </a>
                 </div>
                 <div className="flex flex-wrap sm:gap-10 gap-8 items-center justify-center mt-8">
                     <a href='/about' ><p className="hover:text-gray-500 text-base cursor-pointer leading-4 text-gray-800">About Us</p></a>
-                    <a href='/contact'><p className="hover:text-gray-500 text-base cursor-pointer leading-4 text-gray-800">Contact us</p></a>
+                    <a href='/contact'><p className="hover:text-gray-500 text-base cursor-pointer leading-4 text-gray-800">Contact Us</p></a>
                 </div>
                 <div className="flex items-center gap-x-8 mt-6">
                     <div className="cursor-pointer">
