@@ -1,15 +1,17 @@
 import React from 'react'
+import coco from '../Assets/Capture1.JPG'
+
 
 function Mid1() {
   return (
-    <div className='overflow-y-hidden'>
+    <div className='overflow-y-hidden font-nav'>
     <div className="xl:mx-auto xl:container  xl:px-20 md:px-6 px-4 py-12">
       <div className="lg:flex items-center justify-center lg:space-x-12 2xl:space-x-6">
-        <div className>
+        <div>
           <p className="lg:text-4xl text-3xl font-extrabold leading-9 text-gray-800">Why choose us</p>
           <p className="text-lg leading-7 text-gray-600 mt-4 xl:w-7/12 w-full">At Cocobrigs, we pride ourselves on delivering top-notch products and services</p>
           <div className="lg:hidden lg:w-3/5 xl:w-3/5 w-full lg:mt-0 mt-6">
-            <img src="https://www.linkpicture.com/q/Capture1_3.jpg" alt="ongoing meeting" className="w-full obejct-fit object-center object-fill h-full" />
+            <img src={coco} alt="cocobrigs" className="w-full obejct-fit object-center object-fill h-full" />
           </div>
           <div className="mt-6 md:mt-10 grid sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-2 xl:grid-cols-2 gap-6 lg:mt-6 2xl:mt-12">
             <div className="flex items-center">
@@ -59,7 +61,7 @@ function Mid1() {
           </div>
         </div>
         <div className="hidden lg:block lg:w-3/5 xl:w-3/5 w-full lg:mt-0 mt-6">
-          <img src="https://www.linkpicture.com/q/Capture1_3.jpg" alt="ongoing meeting" className="w-full obejct-fit object-center object-fill h-full" />
+          <img src={coco} alt="cocobrigs" className="w-full obejct-fit object-center object-fill h-full" />
         </div>
       </div>
     </div>

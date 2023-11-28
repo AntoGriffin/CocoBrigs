@@ -6,6 +6,9 @@ import About from "./Components/About";
 import Home from "./Components/Home";
 import Contact from "./Components/Contact";
 import Team from "./Components/Team";
+import Readmore from "./Components/Readmore";
+import Mid3 from "./Components/Mid3";
+
 
 
 
@@ -24,6 +27,8 @@ function App() {
         <Route path="/" element={<Home/>}/>
         <Route path="/contact" element={<Contact />}/>
         <Route path="/team" element={<Team />}/>
+        <Route path="/readmore/:id" element={<Readmore/>}/>
+        <Route path="/products" element={<Mid3/>}/>
       </Routes>
     
       

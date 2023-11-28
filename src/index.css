@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+@import url("https://db.onlinewebfonts.com/c/6cb78fb592f9a8244397b1bd220d6453?family=HP+Simplified");
+@import url("https://db.onlinewebfonts.com/c/5d1d6d747b45d6aff710054b95e79a1f?family=HP+Simplified+Regular");
+* {
+    margin: 0;
+    padding: 0;
+  }

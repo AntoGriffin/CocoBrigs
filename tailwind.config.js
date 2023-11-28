@@ -4,7 +4,14 @@ module.exports = {
     './src/**/*.{js,jsx,ts,tsx}',
   ],
   theme: {
-    extend: {},
+    
+      fontFamily: {
+        'HP Simplified': ['HP Simplified', 'sans-serif'],
+        'HP Simplified Regular':['HP Simplified Regular','sans-serif'],
+        'body':['HP Simplified'],
+        'nav':['HP Simplified Regular']
+      },
+   
   },
   plugins: [],
 }

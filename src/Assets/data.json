@@ -1,0 +1,52 @@
+[
+    {
+        "title": "Pillow Briquette",
+        "image": "https://iili.io/JHuIUCv.png",
+        "material":"Raw material: Coconut shell charcoal",
+        "colour":"Colour: Black",
+        "smoke":"Smoke: Nill",
+        "odour":"Odour: Odourless",
+        "shape":"Shape: Pillow",
+        "dimension":"Dimension: D50x50x30 mm",
+        "weight":"Weight: 45 grams",
+        "fixedcarbon":"Fixed Carbon: 55-60%",
+        "ash":"Ash: Around 22%",
+        "moisture":"Moisture: 5%",
+        "volatilematerial":"Volatile material: 15-18%",
+        "burningtime":"Burning time: 3 hours"
+      },
+   
+     {
+        "title": "Hexagonal Briquette",
+        "image": "https://iili.io/JHucVn9.png",
+        "material":"Raw material: Coconut shell charcoal",
+        "colour":"Colour: Black",
+        "smoke":"Smoke: Nill",
+        "odour":"Odour: Odourless",
+        "shape":"Shape: Hexagonal",
+        "dimension":"Dimension: 50mm dia x 5.5 inch length",
+        "weight":"Weight: 350-450 grams",
+        "fixedcarbon":"Fixed Carbon: 55-60%",
+        "ash":"Ash: Around 22%",
+        "moisture":"Moisture: 5%",
+        "volatilematerial":"Volatile material: 15-18%",
+        "burningtime":"Burning time: 6 hours"
+      },
+      {
+        "title": "Shisha Cube Briquette",
+        "image": "https://iili.io/JHuljVt.png",
+        "material":"Raw material: Coconut shell charcoal",
+        "colour":"Colour: Black",
+        "smoke":"Smoke: Nill",
+        "odour":"Odour: Odourless",
+        "shape":"Shape: Cube",
+        "dimension":"Dimension: 25x25x25 mm",
+        "weight":"Weight: 14 grams",
+        "fixedcarbon":"Fixed Carbon: Above 80%",
+        "ash":"Ash: 3%",
+        "moisture":"Moisture: Below 5%",
+        "volatilematerial":"Volatile material: Around 15%",
+        "burningtime":"Burning time: 90mins"
+      }
+   
+  ]

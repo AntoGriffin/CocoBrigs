@@ -1,8 +1,9 @@
 import React from 'react'
+import about from '../Assets/about.jpg'
 
 function About() {
   return (
-    <div className='pt-14'>
+    <div className='pt-14 font-nav mt-2'>
             <div className="2xl:mx-auto 2xl:container 2xl:px-20 px-6 ">
                 <div className="flex md:flex-row flex-col-reverse md:items-stretch items-center justify-center">
                     <div className="md:py-20 xl:w-1/2 sm:w-1/2 lg:mr-20 md:mr-6 flex flex-col md:items-end items-center justify-center xl:mr-28">
@@ -36,8 +37,8 @@ function About() {
                         </div>
                     </div>
                     <div className="py-12 xl:w-1/2 lg:w-1/3 sm:w-1/2">
-                        <img src="https://www.linkpicture.com/q/image-380x640.jpg" alt="charcoal" className="h-full rounded-md object-cover object-center md:block hidden" />
-                        <img src="https://www.linkpicture.com/q/image-343x543.jpg" alt="coco" className="h-auto w-auto md:hidden block" />
+                        <img src={about} alt="charcoal" className="h-full rounded-md object-cover object-center md:block hidden" />
+                        <img src={about} alt="coco" className="h-auto w-auto md:hidden block" />
                     </div>
                 </div>
             </div>
